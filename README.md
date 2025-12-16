@@ -2,6 +2,9 @@
 
 Modern ve kullanıcı dostu bir Todo List uygulaması. React ile geliştirilmiş, tarayıcı localStorage kullanarak veri kalıcılığı sağlayan tam işlevsel bir görev yönetim uygulaması.
 
+
+<img width="1918" height="863" alt="goruntu" src="https://github.com/user-attachments/assets/93755a32-ea98-4d57-abe0-e66d18821581" />
+
 ## 🎯 Ana Özellikler
 
 - ✅ **Görev Ekleme**: Basit bir input alanı ile yeni görevler ekleyin
