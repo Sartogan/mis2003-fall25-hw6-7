@@ -122,9 +122,6 @@ Build dosyaları `build/` klasörüne oluşturulacaktır.
 
 Bu proje eğitim amaçlı geliştirilmiştir.
 
-## 👨‍💻 Geliştirici
-
-Kıdemli Yazılım Geliştirici tarafından geliştirilmiştir.
 
 ---
 
